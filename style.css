@@ -1,16 +1,26 @@
-#name {
-  color: #404040;
-  text-align: center;
+#eng-works {
+  color: darkgrey;
+}
+
+
+
+
+body  {
   margin: 0;
+}
+
+.avai-name {
   font-weight: lighter;
-  font-style: italic;
+  margin: 0;
+  color: #404040;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 a {
   color: #404040;
   text-decoration: none;
 }
-
+/*
 #menu {
   list-style-type: none;
   text-align: center;
@@ -23,7 +33,7 @@ a {
   margin-right: 130px;
   margin-left: 100px;
 }
-
+*/
 .Album {
   text-align: center;
 }
@@ -47,3 +57,20 @@ a {
   size: 16px;
 }
 
+.initial-title {
+  text-align: center;
+  margin-top: 25em;
+}
+
+.initial-name {
+  margin: 0;
+  color: #404040;
+  font-size: 90px;
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.initial-description {
+  margin: 0;
+  font-size: 15px;
+}
