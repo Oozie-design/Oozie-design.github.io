@@ -1,0 +1,49 @@
+#name {
+  color: #404040;
+  text-align: center;
+  margin: 0;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+a {
+  color: #404040;
+  text-decoration: none;
+}
+
+#menu {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  border-bottom: 2px solid #e3e3e3;
+}
+.tabl{
+  position: relative;
+  display: inline;
+  margin-right: 130px;
+  margin-left: 100px;
+}
+
+.Album {
+  text-align: center;
+}
+
+.quote {
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 20px 30px;
+  color: #404040;
+  font-weight: bold;
+  size: 20px;
+  text-align: center;
+  border: 1px solid #bbb;
+  border-radius: 0;
+  }
+  
+.quote-author {
+  display: block;
+  font-weight: normal;
+  text-align: right;
+  size: 16px;
+}
+
